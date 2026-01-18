@@ -65,8 +65,6 @@
 
 ### Companies
 
-#### \# companies
-* 8th Light https://8thlight.com/blog/
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
